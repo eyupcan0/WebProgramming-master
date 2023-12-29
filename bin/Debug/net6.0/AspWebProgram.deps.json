@@ -15,6 +15,14 @@
         },
         "runtime": {
           "AspWebProgram.dll": {}
+        },
+        "resources": {
+          "en-US/AspWebProgram.resources.dll": {
+            "locale": "en-US"
+          },
+          "tr-TR/AspWebProgram.resources.dll": {
+            "locale": "tr-TR"
+          }
         }
       },
       "Humanizer.Core/2.8.26": {
